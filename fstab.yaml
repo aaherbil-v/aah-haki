@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p23458-e585661.adobeaemcloud.com/bin/franklin.delivery/vasilijauzunova/haki-eds-demo/main"
+    url: "https://author-p23458-e585661.adobeaemcloud.com/bin/franklin.delivery/aaherbil-v/aah-haki/main"
     type: "markup"
     suffix: ".html"
