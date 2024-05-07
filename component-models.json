@@ -191,9 +191,9 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "jcr:title",
-        "value": "",
-        "label": "Text"
+        "name": "title",
+        "label": "title",
+        "value": ""
       }
     ]
   }
